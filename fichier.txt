@@ -1,1 +1,2 @@
 Un fichier texte
+ajout de texte en local
